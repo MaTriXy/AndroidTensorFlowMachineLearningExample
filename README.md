@@ -6,7 +6,7 @@
 * How to build TensorFlow library(.so file and jar file) to use with Android Application.
 * This project include an example for object detection for an image taken from camera using TensorFlow library.
 
-## Watch video on Epoch, Batch, Batch Size, Iteration: [Epoch, Batch, Batch Size, Iteration](https://www.youtube.com/watch?v=NFLlXE-6vno)
+## Prepare for Machine Learning Interview: [Machine Learning Interview Questions](https://github.com/amitshekhariitbhu/machine-learning-interview-questions)
 
 # [Check the Android TensorFlow Lite Machine Learning Example.](https://github.com/amitshekhariitbhu/Android-TensorFlow-Lite-Example)
 
